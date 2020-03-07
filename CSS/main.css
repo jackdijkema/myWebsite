@@ -1,0 +1,351 @@
+    @font-face {
+    font-family: Camingo;
+    src: url("../fonts/CamingoCode-Regular.ttf");
+}
+
+@font-face {
+    font-family: Vegab;
+    src: url("../fonts/CODE.otf");
+}
+
+@font-face {
+    font-family: Mono;
+    src: url("../fonts/Mono.ttf");
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body,
+html {
+    height: 100%;
+    font-family: Camingo, sans-serif;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("../pics/skrrrt.jpg");
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.AboutMe {
+    /* The image used */
+    background-color: white;
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.Hoofdnav {
+    font-family: 'Roboto Condensed', monospace;
+    font-stretch: condensed;
+    font-size: 25px;
+    width: 100%;
+    position: absolute;
+    bottom: 10%;
+    font-weight: 300;
+    word-spacing: 5%;
+}
+
+.Hoofdnav li {
+    display: inline-block;
+    width: 33.3%;
+    text-align: center;
+}
+
+.Hoofdnav ul {
+    letter-spacing: 4px;
+    list-style-type: none;
+    margin: 0 auto;
+    width: 35%;
+}
+
+.flexContainer {
+    display: inline-flex;
+    justify-content: flex-start;
+}
+
+.Foto {
+    padding: 2%;
+}
+
+.text {
+    display: inline-flex;
+    align-items: flex-start;
+    flex-flow: column;
+    justify-content: flex-start;
+    padding: 3%;
+    font-family: 'Roboto Condensed', monospace;
+    font-style: normal;
+}
+
+.text h1 {
+    font-size: 2vw;
+    font-family: "Roboto Mono",sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.Hoofdnav a {
+    color: white;
+    text-decoration: none;
+    font-size: 2vw;
+}
+
+.Hoofdnav a:hover {
+    font-weight: bold;
+    text-outline: white 2px;
+}
+
+.line-1 {
+    position: relative;
+    top: 80%;
+    width: 24em;
+    margin: 0 auto;
+    border-right: 2px solid rgba(255, 255, 255, .75);
+    font-size: 300%;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    transform: translateY(-50%);
+    color: white;
+    font-family: Vegab, sans-serif;
+    font-weight: bold;
+}
+
+
+/* Typewriter Animation */
+
+.anim-typewriter {
+    animation: typewriter 5s steps(44) 1s 1 normal both, blinkTextCursor 500ms steps(44) infinite normal;
+}
+
+@keyframes typewriter {
+    from {
+        width: 0;
+    }
+    to {
+        width: 6.3em;
+    }
+}
+
+@keyframes blinkTextCursor {
+    from {
+        border-right-color: rgba(255, 255, 255, .75);
+    }
+    to {
+        border-right-color: transparent;
+    }
+}
+
+@media only screen and (max-width: 500px) and (min-width: 300px) {
+    .Hoofdnav a {
+        font-size: 4vw;
+    }
+    .flexContainer {
+        flex-direction: column;
+        align-items: center;
+    }
+    .text h1 {
+        font-size: 5vw;
+    }
+    .Hoofdnav li {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .line-1 {
+        position: relative;
+        top: 60%;
+        width: 24em;
+        margin: 0 auto;
+        border-right: 2px solid rgba(255, 255, 255, .75);
+        font-size: 4vw;
+        text-align: center;
+        white-space: nowrap;
+        overflow: hidden;
+        transform: translateY(-50%);
+        color: white;
+        font-family: Vegab, sans-serif;
+        font-weight: bold;
+    }
+}
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+
+@media only screen and (min-width: 600px) {
+    .line-1 {
+        position: relative;
+        top: 70%;
+        width: 24em;
+        margin: 0 auto;
+        border-right: 2px solid rgba(255, 255, 255, .75);
+        font-size: 300%;
+        text-align: center;
+        white-space: nowrap;
+        overflow: hidden;
+        transform: translateY(-50%);
+        color: white;
+        font-family: Vegab, sans-serif;
+        font-weight: bold;
+    }
+}
+
+
+/*Mobile Smaller Than 600px*/
+
+@media only screen and (max-width: 600px) {
+    .line-1 {
+        position: relative;
+        top: 68%;
+        width: 24em;
+        margin: 0 auto;
+        border-right: 2px solid rgba(255, 255, 255, .75);
+        font-size: 6.2vw;
+        text-align: center;
+        white-space: nowrap;
+        overflow: hidden;
+        transform: translateY(-50%);
+        color: white;
+        font-family: Vegab, sans-serif;
+        font-weight: bold;
+    }
+    .Hoofdnav ul {
+        letter-spacing: 4px;
+        list-style-type: none;
+        margin: 0 auto;
+        width: 45%;
+    }
+}
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+
+@media only screen and (min-width: 768px) {
+    .line-1 {
+        position: relative;
+        top: 75%;
+        width: 24em;
+        margin: 0 auto;
+        border-right: 2px solid rgba(255, 255, 255, .75);
+        font-size: 300%;
+        text-align: center;
+        white-space: nowrap;
+        overflow: hidden;
+        transform: translateY(-50%);
+        color: white;
+        font-family: Vegab, sans-serif;
+        font-weight: bold;
+    }
+    .Hoofdnav ul {
+        letter-spacing: 4px;
+        list-style-type: none;
+        margin: 0 auto;
+        width: 40%;
+    }
+    /* Large devices (laptops/desktops, 992px and up) */
+    @media only screen and (min-width: 992px) {
+        .line-1 {
+            position: relative;
+            top: 75%;
+            width: 24em;
+            margin: 0 auto;
+            border-right: 2px solid rgba(255, 255, 255, .75);
+            font-size: 300%;
+            text-align: center;
+            white-space: nowrap;
+            overflow: hidden;
+            transform: translateY(-50%);
+            color: white;
+            font-family: Vegab, sans-serif;
+            font-weight: bold;
+        }
+    }
+    /* Extra large devices (large laptops and desktops, 1200px and up) */
+    @media only screen and (min-width: 1200px) {
+        .line-1 {
+            position: relative;
+            top: 75%;
+            width: 24em;
+            margin: 0 auto;
+            border-right: 2px solid rgba(255, 255, 255, .75);
+            font-size: 4vw;
+            text-align: center;
+            white-space: nowrap;
+            overflow: hidden;
+            transform: translateY(-50%);
+            color: white;
+            font-family: Vegab, sans-serif;
+            font-weight: bold;
+        }
+        .Hoofdnav ul {
+            letter-spacing: 4px;
+            list-style-type: none;
+            margin: 0 auto;
+            width: 40%;
+        }
+        .Hoofdnav li {
+            display: inline-block;
+            width: 33.3%;
+            text-align: center;
+        }
+    }
+    /*Widescreens and 4k:*/
+    @media only screen and (min-width: 2560px) {
+        .line-1 {
+            position: relative;
+            top: 75%;
+            width: 24em;
+            margin: 0 auto;
+            border-right: 2px solid rgba(255, 255, 255, .75);
+            font-size: 4vw;
+            text-align: center;
+            white-space: nowrap;
+            overflow: hidden;
+            transform: translateY(-50%);
+            color: white;
+            font-family: Vegab, sans-serif;
+            font-weight: bold;
+        }
+        .text h1 {
+            font-size: 1.3vw;
+        }
+        .text {
+            font-size: 1vw;
+        }
+        .line-1 {
+            position: relative;
+            top: 75%;
+            width: 24em;
+            margin: 0 auto;
+            border-right: 2px solid rgba(255, 255, 255, .75);
+            font-size: 4vw;
+            text-align: center;
+            white-space: nowrap;
+            overflow: hidden;
+            transform: translateY(-50%);
+            color: white;
+            font-family: Vegab, sans-serif;
+            font-weight: bold;
+        }
+        @keyframes typewriter {
+            from {
+                width: 0;
+            }
+            to {
+                width: 6.7em;
+            }
+        }
+    }

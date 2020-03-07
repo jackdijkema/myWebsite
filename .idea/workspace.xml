@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35470809-8c8a-4531-b7c2-e13760a93b49" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5044534">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="578">
+                  <caret line="34" column="69" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/CSS/main.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="493">
+                  <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hr</find>
+      <find>0</find>
+      <find>768</find>
+      <find>roboto</find>
+      <find>metropolis</find>
+      <find>bearskin</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../ziggo/Website/index.html" />
+        <option value="$PROJECT_DIR$/CSS/header.css" />
+        <option value="$PROJECT_DIR$/../ziggo/Ziggo website Jack Dijkema/index.html" />
+        <option value="$PROJECT_DIR$/port v.2/index.html" />
+        <option value="$PROJECT_DIR$/port v.2/CSS/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/CSS/main.css" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="213" />
+    <option name="width" value="1716" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jackd\OneDrive\Bureaublad\Portfolio\pdf" />
+      <recent name="C:\Users\jackd\OneDrive\Bureaublad\Portfolio\" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jackd\OneDrive\Bureaublad\Portfolio\fonts" />
+      <recent name="C:\Users\jackd\OneDrive\Bureaublad\Portfolio\pics" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35470809-8c8a-4531-b7c2-e13760a93b49" name="Default Changelist" comment="" />
+      <created>1550231838198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550231838198</updated>
+      <workItem from="1550231839433" duration="9794000" />
+      <workItem from="1551168052235" duration="139000" />
+      <workItem from="1551341263191" duration="10032000" />
+      <workItem from="1551440584283" duration="15751000" />
+      <workItem from="1551703625748" duration="123000" />
+      <workItem from="1551772052397" duration="130000" />
+      <workItem from="1551896005667" duration="2000000" />
+      <workItem from="1551954882587" duration="181000" />
+      <workItem from="1552046503316" duration="951000" />
+      <workItem from="1552047483799" duration="88000" />
+      <workItem from="1552048977143" duration="700000" />
+      <workItem from="1552377115429" duration="115000" />
+      <workItem from="1552642833317" duration="1773000" />
+      <workItem from="1552825853432" duration="423000" />
+      <workItem from="1552826396953" duration="2284000" />
+      <workItem from="1552915509831" duration="929000" />
+      <workItem from="1553082420757" duration="13900000" />
+      <workItem from="1553155003446" duration="11544000" />
+      <workItem from="1553254913176" duration="4369000" />
+      <workItem from="1553262095917" duration="32000" />
+      <workItem from="1553277761431" duration="180000" />
+      <workItem from="1553592195582" duration="37000" />
+      <workItem from="1554189637770" duration="8739000" />
+      <workItem from="1554201428924" duration="257000" />
+      <workItem from="1554374880852" duration="37000" />
+      <workItem from="1554460883666" duration="250000" />
+      <workItem from="1554794746007" duration="6391000" />
+      <workItem from="1554966415372" duration="6510000" />
+      <workItem from="1555017456950" duration="1956000" />
+      <workItem from="1555066160261" duration="406000" />
+      <workItem from="1555326170228" duration="3295000" />
+      <workItem from="1555334686605" duration="1539000" />
+      <workItem from="1555407983044" duration="10377000" />
+      <workItem from="1555482490942" duration="12070000" />
+      <workItem from="1567500490925" duration="255000" />
+      <workItem from="1567501336183" duration="390000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="127947000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.22654584" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.3285968" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.3283582" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/index.html</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$EXa14688.29011/WebsiteProject2/index.html" />
+    <entry file="file://$USER_HOME$/Downloads/header.css" />
+    <entry file="file://$PROJECT_DIR$/../ziggo/Website/index.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa14736.26338/main.css" />
+    <entry file="file://$PROJECT_DIR$/pics/meEdited.jpg" />
+    <entry file="file://$USER_HOME$/Downloads/form1.php" />
+    <entry file="file://$PROJECT_DIR$/pics/26154085_2165522527008618_3557599772955115520_n (1).jpg" />
+    <entry file="file://$PROJECT_DIR$/pics/AboutMe.jpg" />
+    <entry file="file://$PROJECT_DIR$/pics/About me.jpg" />
+    <entry file="file://$PROJECT_DIR$/pics/rsz_1rsz_11aboutme.jpg" />
+    <entry file="file://$PROJECT_DIR$/pics/rsz_11aboutme.jpg" />
+    <entry file="file://$PROJECT_DIR$/pics/skrrt.jpg" />
+    <entry file="file://$PROJECT_DIR$/../ziggo/Ziggo website Jack Dijkema/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="6" selection-end-line="388" />
+          <folding>
+            <element signature="e#15594#15600#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/port v.2/CSS/main.css" />
+    <entry file="file://$PROJECT_DIR$/port v.2/index.html" />
+    <entry file="file://$PROJECT_DIR$/CSS/header.css" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="69" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
