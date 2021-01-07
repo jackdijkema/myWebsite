@@ -1,3 +1,3 @@
 # My simple portfolio website.
 
-Languages used: HTML, CSS, JS & PHP
+Languages used: HTML, CSS & JavaScript
